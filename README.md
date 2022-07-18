@@ -1,8 +1,12 @@
 This is a master detail list for the dog.ceo API
+
 Allows you to select a breed and get a bunch of cute pictures of that breed!
 
 Frontend is built with React
+
 Backend is built with Flask
+
+
 
 ## Available Scripts
 
